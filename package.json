@@ -16,9 +16,9 @@
   },
   "dependencies": {
     "@arshiash80/strapi-plugin-iconhub": "^1.3.1",
-    "@strapi/plugin-cloud": "5.50.0",
-    "@strapi/plugin-users-permissions": "5.50.0",
-    "@strapi/strapi": "^5.50.0",
+    "@strapi/plugin-cloud": "5.51.2",
+    "@strapi/plugin-users-permissions": "5.51.2",
+    "@strapi/strapi": "5.51.2",
     "better-sqlite3": "12.8.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -42,10 +42,10 @@
     "installId": "e91842b9f73b0def68cad5b50048dbddaaa94dbc0dafb6a8cf73ea1d57a83ba6"
   },
   "allowScripts": {
-    "sharp@0.33.5": true,
     "@swc/core": true,
     "better-sqlite3": true,
     "core-js-pure": true,
-    "esbuild": true
+    "esbuild": true,
+    "sharp@0.34.5": true
   }
 }
